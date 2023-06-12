@@ -1,0 +1,20 @@
+Test finished without errors.
+You can now delete the test files *.h2w or verify them again.
+Writing speed: 12.1 MByte/s
+Reading speed: 5.81 MByte/s
+H2testw v1.4
+
+The media is likely to be defective.
+294.7 MByte OK (603693 sectors)
+15.1 GByte DATA LOST (31697363 sectors)
+Details:0 KByte overwritten (0 sectors)
+0 KByte slightly changed (< 8 bit/sector, 0 sectors)
+15.1 GByte corrupted (31697363 sectors)
+0 KByte aliased memory (0 sectors)
+First error at offset: 0x00000000126c5a00
+Expected: 0x00000000126c5a00
+Found: 0x00e2f982c0f977d7
+H2testw version 1.3
+Writing speed: 6.88 MByte/s
+Reading speed: 14.1 MByte/s
+H2testw v1.4
